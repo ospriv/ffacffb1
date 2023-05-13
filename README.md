@@ -1,0 +1,3 @@
+# Greencode
+
+Spring Boot Server
